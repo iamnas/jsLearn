@@ -1,0 +1,20 @@
+
+
+Javascript is a single threaded programming language that
+can be non-blocking. 
+
+                --    Memory heap
+            --    
+Javascript -
+            --
+                --  Call Stack  (single call stack)
+
+
+single threaded bcause JS have only one call stack
+
+How javascript can be non-blocking ?
+
+CALLBACK functions
+
+a callback is a function passed as an argument to another function
+
